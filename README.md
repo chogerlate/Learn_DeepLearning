@@ -33,6 +33,8 @@ and you can also check out the list of papers I wrote in the next section below.
 
 
 ## List of Papers
-| Attention is All You Need. |  Link  |
+| Paper                      |  |
 |----------------------------|--------|
+| AlexNet                   | |
+| Attention is All You Need |   |
 | RNN                        |        |
